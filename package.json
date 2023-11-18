@@ -15,6 +15,7 @@
     "defaults"
   ],
   "dependencies": {
-    "bootstrap-icons": "^1.11.0"
+    "bootstrap-icons": "^1.11.0",
+    "sass": "^1.69.5"
   }
 }
